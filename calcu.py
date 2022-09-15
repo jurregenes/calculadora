@@ -33,6 +33,8 @@ while sair == False:
     if teste == "s":
         sair = True
         
+
+        
          
     
      
