@@ -32,12 +32,6 @@ while sair == False:
     teste = input("Deseja sair (n/s): ")
     if teste == "s":
         sair = True
-        
-
-
-
-
-
 
          
     
